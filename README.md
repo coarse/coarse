@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I do keyboard PCB designs and software engineering projects!
+
+I also do PCB design commissions. You can learn more [https://keyboard.coarse.tech/services](here).
