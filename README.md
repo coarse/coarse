@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I do keyboard PCB designs and software engineering projects!
 
-I also do PCB design commissions. You can learn more [https://keyboard.coarse.tech/services](here).
+I also do PCB design commissions. More details at my website: https://keyboard.coarse.tech/services
